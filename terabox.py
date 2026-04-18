@@ -8,7 +8,7 @@ def tera(surl: str):
     session = requests.Session(impersonate="chrome110")
 
     cookies = {
-        "ndus": "YuLuQdPpeHuiMGEQDXpWDu6K2P4-xInj8YGEzswD"
+        "ndus": "YbMR8v3teHuiEcdoy8fbSuicDMYSbWhjxi19DanJ"
     }
 
     session.cookies.update(cookies)
